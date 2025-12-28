@@ -1,0 +1,11 @@
+discord-site/
+│
+├── index.html
+├── style.css
+├── script.js
+└── assets/
+    ├── bg.jpg   ← your background image
+    └── logos/
+        ├── topgg.png
+        ├── disboard.png
+        └── dsl.png
